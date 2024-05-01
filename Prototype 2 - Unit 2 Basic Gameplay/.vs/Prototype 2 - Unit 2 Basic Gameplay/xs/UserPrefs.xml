@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FD7F7949-10B7-5954-61F0-5D908AC24DB3}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="834dfbab-8cc3-4509-8434-d16a1e1d3f7a" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Downloads/GameDesign_Final_exam-main/Prototype 2 - Unit 2 Basic Gameplay/Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="../../../../Downloads/Basic-Gameplay-main/Prototype2/Library/PackageCache/com.unity.collab-proxy@2.3.1/Editor/PlasticSCM/Configuration/CloudEdition/Welcome/AutoLogin.cs" Line="128" Column="1" />
+      <File FileName="../../../../Downloads/GameDesign_Final_exam-main/Prototype 4 - Unit 4 Gameplay Mechanics/Assets/Scripts/SpawnManager.cs" Line="23" Column="34" />
+      <File FileName="Assets/Scripts/DestroyOutOfBounds.cs" Line="1" Column="1" />
+      <File FileName="../../../../Downloads/GameDesign_Final_exam-main/Prototype 2 - Unit 2 Basic Gameplay/Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype 2 - Unit 2 Basic Gameplay" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
